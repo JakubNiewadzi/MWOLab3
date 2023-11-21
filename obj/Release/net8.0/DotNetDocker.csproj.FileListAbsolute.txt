@@ -1,0 +1,14 @@
+/home/niewadzj/DotNetDocker/bin/Release/net8.0/DotNetDocker
+/home/niewadzj/DotNetDocker/bin/Release/net8.0/DotNetDocker.deps.json
+/home/niewadzj/DotNetDocker/bin/Release/net8.0/DotNetDocker.runtimeconfig.json
+/home/niewadzj/DotNetDocker/bin/Release/net8.0/DotNetDocker.dll
+/home/niewadzj/DotNetDocker/bin/Release/net8.0/DotNetDocker.pdb
+/home/niewadzj/DotNetDocker/obj/Release/net8.0/DotNetDocker.GeneratedMSBuildEditorConfig.editorconfig
+/home/niewadzj/DotNetDocker/obj/Release/net8.0/DotNetDocker.AssemblyInfoInputs.cache
+/home/niewadzj/DotNetDocker/obj/Release/net8.0/DotNetDocker.AssemblyInfo.cs
+/home/niewadzj/DotNetDocker/obj/Release/net8.0/DotNetDocker.csproj.CoreCompileInputs.cache
+/home/niewadzj/DotNetDocker/obj/Release/net8.0/DotNetDocker.dll
+/home/niewadzj/DotNetDocker/obj/Release/net8.0/refint/DotNetDocker.dll
+/home/niewadzj/DotNetDocker/obj/Release/net8.0/DotNetDocker.pdb
+/home/niewadzj/DotNetDocker/obj/Release/net8.0/DotNetDocker.genruntimeconfig.cache
+/home/niewadzj/DotNetDocker/obj/Release/net8.0/ref/DotNetDocker.dll

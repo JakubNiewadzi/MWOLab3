@@ -1,0 +1,5 @@
+/home/niewadzj/DotNetDocker/bin/Release/net8.0/publish/DotNetDocker
+/home/niewadzj/DotNetDocker/bin/Release/net8.0/publish/DotNetDocker.dll
+/home/niewadzj/DotNetDocker/bin/Release/net8.0/publish/DotNetDocker.deps.json
+/home/niewadzj/DotNetDocker/bin/Release/net8.0/publish/DotNetDocker.runtimeconfig.json
+/home/niewadzj/DotNetDocker/bin/Release/net8.0/publish/DotNetDocker.pdb
